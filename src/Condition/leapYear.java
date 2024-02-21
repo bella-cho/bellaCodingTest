@@ -9,7 +9,6 @@ public class leapYear {
         Scanner sc= new Scanner(System.in);
         int a= sc.nextInt();
 
-a
         if(a%4==0){
             if (a%400==0){
                 System.out.println("1");
